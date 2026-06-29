@@ -60,7 +60,7 @@ civicmind-ai/
 - [Agent Communication Diagram](docs/AGENT_COMMUNICATION.md)
 - [Database Schema](docs/DATABASE.md)
 - [API](docs/API.md)
-- [Deployment](docs/DEPLOYMENT.md)
+- [Deployment](https://0fb6e5ef9053ee.lhr.life/)
 - [Pitch Deck](docs/PITCH_DECK.md)
 - [Judge Explanation](docs/JUDGE_EXPLANATION.md)
 - [Demo Script](docs/DEMO_SCRIPT.md)
